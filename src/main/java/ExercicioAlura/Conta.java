@@ -1,5 +1,5 @@
 package ExercicioAlura;
-//A classe Conta deve conter, além dos atributos mencionados anteriormente, pelo menos os seguintes métodos:
+//A classe Conta deve conter, os seguintes métodos:
 //saca que recebe um valor como parâmetro e o retira do saldo da conta;
 //deposita que recebe um valor como parâmetro e o adiciona ao saldo da conta;
 //calculaRendimento que não recebe parâmetro algum e devolve o valor do saldo multiplicado por 0.1.
