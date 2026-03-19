@@ -1,13 +1,10 @@
 package Projeto_ShowArtistasMusicais.teste;
 
-import Projeto_ShowArtistasMusicais.Artista;
-import Projeto_ShowArtistasMusicais.Banda;
-import Projeto_ShowArtistasMusicais.Cantor;
-import Projeto_ShowArtistasMusicais.repository.Contratavel;
+import Projeto_ShowArtistasMusicais.dominio.Banda;
+import Projeto_ShowArtistasMusicais.dominio.Cantor;
 import Projeto_ShowArtistasMusicais.service.EmitirContrato;
 import Projeto_ShowArtistasMusicais.service.GeradorRelatorioCache;
-import java.util.ArrayList;
-import java.util.List;
+
 import java.util.Scanner;
 
 /*Simulador de contrato de show de Artistas musicais, aplicando polimorfismo, classes abstratas e interfaces. */

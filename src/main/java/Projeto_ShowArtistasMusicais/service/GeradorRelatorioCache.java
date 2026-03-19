@@ -1,8 +1,6 @@
 package Projeto_ShowArtistasMusicais.service;
 
-import Projeto_ShowArtistasMusicais.Artista;
-import Projeto_ShowArtistasMusicais.Banda;
-import Projeto_ShowArtistasMusicais.Cantor;
+import Projeto_ShowArtistasMusicais.dominio.Artista;
 
 public class GeradorRelatorioCache {
 

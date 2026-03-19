@@ -1,4 +1,4 @@
-package Projeto_ShowArtistasMusicais;
+package Projeto_ShowArtistasMusicais.dominio;
 
 public abstract class Artista {
     protected String nome;

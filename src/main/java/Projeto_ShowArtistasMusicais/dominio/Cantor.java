@@ -1,4 +1,4 @@
-package Projeto_ShowArtistasMusicais;
+package Projeto_ShowArtistasMusicais.dominio;
 
 import Projeto_ShowArtistasMusicais.repository.Contratavel;
 
